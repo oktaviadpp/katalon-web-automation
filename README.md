@@ -31,26 +31,6 @@ The application provides various UI components and features suitable for automat
 
 ---
 
-## 📂 Project Structure
-```
-├── Test Cases
-│   ├── Login
-│   ├── Form
-│   └── UI Components
-├── Test Suites
-│   └── Regression Suite
-├── Object Repository
-│   ├── Login Page
-│   ├── Form Page
-│   └── Common Elements
-├── Profiles
-│   └── default
-├── Reports
-└── README.md
-```
-
----
-
 ## ✅ Test Scenarios Covered
 - Verify successful login with valid credentials
 - Verify error handling on invalid login
@@ -92,8 +72,3 @@ The application provides various UI components and features suitable for automat
 - Demonstrate readiness for **Mid-Level QA Automation Engineer** roles
 
 ---
-
-## 👤 Author
-**Oktav**  
-Quality Assurance Engineer (Mid-Level)
-
