@@ -3,20 +3,19 @@
 ## 🚀 Project Overview
 
 This repository contains a **Web UI Automation Testing project** built using **Katalon Studio**.  
-The automation is implemented on the public demo website *The Internet (Heroku App)* — a popular practice site for UI automation.  
-This project demonstrates **practical automation skills**, advanced test logic, and real-world WebUI handling for mid-level QA roles. :contentReference[oaicite:0]{index=0}
+The automation is implemented on the public demo website *The Internet (Heroku App)*
 
 ---
 
 ## 🌐 Application Under Test (AUT)
 
-- **Website**: https://the-internet.herokuapp.com/ :contentReference[oaicite:1]{index=1}  
+- **Website**: https://the-internet.herokuapp.com/
 - The application provides various UI components suitable for automation, including:
   - JavaScript alerts (context menu)
   - Dynamic controls (input enable/disable)
   - Checkboxes & dropdowns
   - File upload/download
-  - Authentication & form validation :contentReference[oaicite:2]{index=2}
+  - Authentication & form validation
 
 ---
 
@@ -26,7 +25,7 @@ This project demonstrates **practical automation skills**, advanced test logic, 
 - **Groovy** – script language  
 - **Selenium WebDriver** – underlying engine used by Katalon  
 - **Object Repository** – reusable page objects  
-- **Git & GitHub** – version control :contentReference[oaicite:3]{index=3}
+- **Git & GitHub** – version control
 
 ---
 
@@ -41,7 +40,7 @@ The project includes scenarios such as:
 - 🔹 Validate **dynamic controls** (enable / disable input)  
 - 🔹 Checkbox add / remove dynamic elements  
 - 🔹 Verify field properties (disabled / enabled, input actions)  
-- 🔹 Additional UI interactions (dropdowns, clicks, and hover behaviours) :contentReference[oaicite:4]{index=4}
+- 🔹 Additional UI interactions (dropdowns, clicks, and hover behaviours)
 
 Each test demonstrates best practices such as:
 - **Explicit waits**
@@ -51,17 +50,9 @@ Each test demonstrates best practices such as:
 
 ---
 
-## ▶️ How To Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/oktaviadpp/katalon-web-automation.git
-
----
-
 ## 📊 Test Execution Report
 
 Below are sample execution reports generated automatically by **Katalon Studio** after running the test cases.
 
 ### 🔹 Test Suite Summary
-![Test Suite Summary](Data Files/report_html.png)
+![Test Suite Summary](Assets/report_html.png)
