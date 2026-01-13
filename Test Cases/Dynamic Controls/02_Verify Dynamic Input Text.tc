@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_Verify Dynamic Input Text</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>926caafd-12d6-4dd0-a129-31f07cdb8337</testCaseGuid>
+</TestCaseEntity>

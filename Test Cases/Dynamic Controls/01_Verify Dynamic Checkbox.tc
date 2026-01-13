@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>01_Check and Uncheck Checkboxes</name>
+   <name>01_Verify Dynamic Checkbox</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>10bd9e47-da6b-465a-a381-dae941e841fc</testCaseGuid>
+   <testCaseGuid>265e946b-97f8-4410-a249-8e22403b6733</testCaseGuid>
 </TestCaseEntity>
